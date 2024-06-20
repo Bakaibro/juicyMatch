@@ -1,0 +1,1030 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_level_next.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_level_next.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_lives_lock.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_lives_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_wheel_pivot.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_wheel_pivot.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_setting.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_more_coin.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_more_coin.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_candy_wrapper_explode.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\candy_wrapper_explode.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_more_lives.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_more_lives.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_star_pulse.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\star_pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_coin.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_coin.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_sand_02.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_sand_02.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_text_combo_wonderful.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\text_combo_wonderful.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_booster.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_booster.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_enter_from_left.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\enter_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_ice_cream.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_ice_cream.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_ice_cream_combine.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\ice_cream_combine.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_dialog_slide.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\dialog_slide.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_star_bg.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_star_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_add_combo.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\add_combo.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_target_pie.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_target_pie.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_button_click.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\button_click.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_flash_ring.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_flash_ring.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_sound_on.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_sound_on.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_coconut.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_coconut.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_smoke.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_smoke.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_confetti.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_confetti.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_shell.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_shell.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_engine.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_engine.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_yes.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_yes.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_game_view_show.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\game_view_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_target_ice.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_target_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_exit_to_bottom.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\exit_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_star_set_03.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_star_set_03.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_next.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_next.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_shell.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_shell.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_bg.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_view_map_state.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\view_map_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_price_60.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_price_60.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_booster_bomb.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_booster_bomb.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_hammer.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_hammer.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_lightning.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_lightning.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_treasure.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_treasure.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_tile_upgrade.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\tile_upgrade.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_text_combo_nice.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\text_combo_nice.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_starfish.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_starfish.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_tutorial_finger.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_tutorial_finger.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_text_pulse.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\text_pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_add_star.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\add_star.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_enter_from_top.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\enter_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_glitter.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_glitter.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_ribbon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_ribbon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_light_bg.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_light_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_score.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_score.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_combine.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_combine.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_light_circle.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_light_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_music_on.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_music_on.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_shop.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_cookie.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_cookie.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_cake.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_cake.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_cake_explode.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\cake_explode.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_candy.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_candy.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_lock.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_strawberry.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_strawberry.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_generator.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_generator.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_logo_bg.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_logo_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_bomb.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_bomb.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_switch_track_on.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_switch_track_on.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_honey.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_honey.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_exit_to_left.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\exit_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_tile_swap.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\tile_swap.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_sand_explode.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\sand_explode.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_star_set_01.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_star_set_01.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_win.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_win.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_switch_track_off.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_switch_track_off.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_star_progress.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_star_progress.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_cancel.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_ice.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_arrow.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_glitter_blue.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_glitter_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_ice_cream_upgrade.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\ice_cream_upgrade.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_explosive_striped_combine.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\explosive_striped_combine.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_explosive_explode.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\explosive_explode.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_level_lock.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_level_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_coin_150.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_coin_150.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_candy_explode.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\candy_explode.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_target_starfish.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_target_starfish.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_sign_check.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_sign_check.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_lives.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_lives.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_dialog_level.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_dialog_level.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_start.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_banana.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_banana.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_enter_from_center.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\enter_from_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_container.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_lock_explode.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\lock_explode.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_target_shell.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_target_shell.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_fragment_loading.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\fragment_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_tile_bounce.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\tile_bounce.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_wheel_spin.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\wheel_spin.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_game_view_pulse.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\game_view_pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_pie_explode.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\pie_explode.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_pause.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_collect_starfish.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\collect_starfish.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_wheel_pointer.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_wheel_pointer.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_light_ring.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_light_ring.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_glove.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_glove.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_text_win.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\text_win.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_score.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_match_t.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_match_t.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_star_progress_clip.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_star_progress_clip.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_exit_to_center.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\exit_to_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_star_set_02.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_star_set_02.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_cookie_explode.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\cookie_explode.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_cherry.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_cherry.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_board_page.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_board_page.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_cookie.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_cookie.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_candy.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_candy.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_play.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_play.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_setting.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_match_5.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_match_5.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_honey.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_honey.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_start.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_start.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_error.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_flash_explosion.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_flash_explosion.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_sand_01.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_sand_01.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_tile_combo_01.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\tile_combo_01.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_flash_column.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_flash_column.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_text_bonus.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\text_bonus.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_ice_01.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_ice_01.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_pie.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_pie.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_target_cookie.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_target_cookie.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_target_lock.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_target_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_game_win.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\game_win.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_flash_row.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_flash_row.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_fragment_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_tile_combo_02.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\tile_combo_02.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_target_honey.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_target_honey.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_switch_thumb_off.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_switch_thumb_off.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_tile_slide.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\tile_slide.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_booster_glove.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_booster_glove.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_board_map.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_board_map.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_star_show.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\star_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_fragment_game.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\fragment_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_dialog_game.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_dialog_game.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_icon_bg.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_sound_off.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_sound_off.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_view_game_booster.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\view_game_booster.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_wheel.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_wheel.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_text_loss.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\text_loss.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_view_game_state.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\view_game_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_bgm.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\bgm.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_music_off.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_music_off.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_target_strawberry.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_target_strawberry.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_booster_glove.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_booster_glove.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_light_bg_blue.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_light_bg_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_logo_rotate.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\logo_rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_star_set_bg.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_star_set_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_exit.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_grid.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_button_pulse.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\button_pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_target_candy.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_target_candy.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_match_4.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_match_4.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_tile_combo_03.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\tile_combo_03.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_dialog.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_text_shuffle.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\text_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_switch_thumb_on.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_switch_thumb_on.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_flash_transform.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_flash_transform.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_item_field.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_item_field.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_coin_50.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_coin_50.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_cake.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_cake.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_flash_beam.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_flash_beam.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_star_progress_bg.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_star_progress_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_ice_02.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_ice_02.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_honey_explode.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\honey_explode.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_striped_explode.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\striped_explode.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_more_move.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_more_move.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_pipe.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_pipe.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_starfish.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_starfish.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_ice_cream_explode.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\ice_cream_explode.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_ice_explode.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\ice_explode.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_target_pulse.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\target_pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_view_map_level.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\view_map_level.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_new_booster.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_new_booster.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_booster_hammer.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_booster_hammer.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_view_shop_product.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\view_shop_product.xml"
+    },
+    {
+        "merged": "com.nativegame.juicymatch.app-merged_res-41:/layout_fragment_menu.xml.flat",
+        "source": "com.nativegame.juicymatch.app-main-43:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_confirm.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_extra_move.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_extra_move.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_generator.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_generator.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_add_score.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\add_score.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_match_l.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_match_l.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_wheel.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_wheel.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_target_cake.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_target_cake.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_pie_pan_explode.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\pie_pan_explode.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_ice_cream_transform.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\ice_cream_transform.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_board_game.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_board_game.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_shop.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_tutorial_match_3.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_tutorial_match_3.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_collect_shell.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\collect_shell.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_level.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_level.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_game_view_remove.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\game_view_remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_lock.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_price_50.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_price_50.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_happy_and_joyful_children.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\happy_and_joyful_children.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_loss.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_loss.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_logo_pulse.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\logo_pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_wheel.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_wheel.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_pipe.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_pipe.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_pie.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_pie.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_price_70.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_price_70.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_game_over.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\game_over.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_sheet_lemon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_sheet_lemon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_booster_hammer.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_booster_hammer.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\font_baloo.ttf.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\font\\baloo.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\anim_game_view_shake.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\anim\\game_view_shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_target_lemon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_target_lemon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_tile_shuffle.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\tile_shuffle.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_tutorial.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_exit.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_container_game.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_container_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_add_bonus.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\add_bonus.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_new_prize.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_new_prize.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_tile_combo_04.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\tile_combo_04.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\layout_dialog_level.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\layout\\dialog_level.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_board_field.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_board_field.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_text_combo_great.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\text_combo_great.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_target_cherry.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_target_cherry.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_star.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_star.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\raw_game_start.wav.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\raw\\game_start.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_quit.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_quit.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_sprite_flash_ring_blue.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\sprite_flash_ring_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_btn_watch_ad.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_btn_watch_ad.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_booster_bomb.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_booster_bomb.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-merged_res-41:\\drawable_ui_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.3.3\\com.nativegame.juicymatch.app-main-43:\\drawable\\ui_logo.png"
+    }
+]

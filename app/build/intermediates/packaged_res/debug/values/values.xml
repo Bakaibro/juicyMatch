@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_10">#1A000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_60">#99000000</color>
+    <color name="black_80">#CC000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+    <dimen name="btn_booster_width">60dp</dimen>
+    <dimen name="btn_large_width">160dp</dimen>
+    <dimen name="btn_round_width">50dp</dimen>
+    <dimen name="btn_shop_width">130dp</dimen>
+    <dimen name="btn_small_width">80dp</dimen>
+    <dimen name="btn_width">120dp</dimen>
+    <dimen name="dialog_large_width">350dp</dimen>
+    <dimen name="dialog_small_width">250dp</dimen>
+    <dimen name="dialog_width">300dp</dimen>
+    <dimen name="image_game_board_field_height">60dp</dimen>
+    <dimen name="image_game_board_height">100dp</dimen>
+    <dimen name="image_logo_bg_width">400dp</dimen>
+    <dimen name="image_logo_width">350dp</dimen>
+    <dimen name="image_map_board_field_height">50dp</dimen>
+    <dimen name="image_map_board_height">80dp</dimen>
+    <dimen name="image_star_large_width">130dp</dimen>
+    <dimen name="image_star_progress_width">250dp</dimen>
+    <dimen name="image_star_small_width">20dp</dimen>
+    <dimen name="image_star_width">100dp</dimen>
+    <dimen name="image_state_booster">25dp</dimen>
+    <dimen name="image_state_item">40dp</dimen>
+    <dimen name="image_state_target">30dp</dimen>
+    <dimen name="image_wheel_pivot_width">70dp</dimen>
+    <dimen name="image_wheel_pointer_width">40dp</dimen>
+    <dimen name="image_wheel_width">300dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_negative_20">-20dp</dimen>
+    <dimen name="margin_negative_30">-30dp</dimen>
+    <dimen name="margin_negative_40">-40dp</dimen>
+    <dimen name="txt_dialog_large_size">35sp</dimen>
+    <dimen name="txt_dialog_size">30sp</dimen>
+    <dimen name="txt_dialog_small_size">20sp</dimen>
+    <dimen name="txt_level_size">25sp</dimen>
+    <dimen name="txt_state_booster_size">18sp</dimen>
+    <dimen name="txt_state_level_size">10sp</dimen>
+    <dimen name="txt_state_move_size">28sp</dimen>
+    <dimen name="txt_state_product_size">14sp</dimen>
+    <dimen name="txt_state_score_size">15sp</dimen>
+    <dimen name="txt_state_target_size">12sp</dimen>
+    <string name="app_name" translatable="false">Juicy Match</string>
+    <string name="app_version" translatable="false">1.6</string>
+    <string name="txt_ad_coins">Watch Ad for\n more coins?</string>
+    <string name="txt_ad_extra_moves">Watch Ad for\n 3 extra moves?</string>
+    <string name="txt_ad_lives">Watch Ad for\n more lives?</string>
+    <string name="txt_admob_reward">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="txt_bomb">Bomb</string>
+    <string name="txt_booster">New Booster</string>
+    <string name="txt_booster_num">X %1$d</string>
+    <string name="txt_coin">More Coins</string>
+    <string name="txt_confirm">Buy this item?</string>
+    <string name="txt_error">Connect Error\n Try Again?</string>
+    <string name="txt_exit">Exit Game?</string>
+    <string name="txt_glove">Glove</string>
+    <string name="txt_hammer">Hammer</string>
+    <string name="txt_hint">Hint :</string>
+    <string name="txt_level">Level %1$d</string>
+    <string name="txt_lives_full">Full</string>
+    <string name="txt_move">Moves</string>
+    <string name="txt_score">Score:</string>
+    <string name="txt_select_level">Select Level</string>
+    <string name="txt_setting">Setting</string>
+    <string name="txt_shop">Shop</string>
+    <string name="txt_target">Target</string>
+    <string name="txt_tutorial_bomb">Bomb can clear all\n the pieces around it!</string>
+    <string name="txt_tutorial_cake">Cake will block the pieces!\n Make matches to clear it!</string>
+    <string name="txt_tutorial_candy">Make matches twice\n to clear Candy!</string>
+    <string name="txt_tutorial_combine">Combine 2 special fruit\n to get big explode!</string>
+    <string name="txt_tutorial_cookie">Make matches next to\n Cookie to clear it!</string>
+    <string name="txt_tutorial_generator">Fruit Generator will\n produce special fruit!</string>
+    <string name="txt_tutorial_glove">Glove can swap two pieces\n without losing moves!</string>
+    <string name="txt_tutorial_hammer">Hammer can clear all the\n pieces in row and column!</string>
+    <string name="txt_tutorial_honey">Make matches to\n spread Honey!</string>
+    <string name="txt_tutorial_ice">Make matches to\n clear Ice!</string>
+    <string name="txt_tutorial_lock">Make matches inside\n Lock to clear it!</string>
+    <string name="txt_tutorial_match_3">Make matches to\n collect fruit!</string>
+    <string name="txt_tutorial_match_4">Match 4 to create\n striped fruit!</string>
+    <string name="txt_tutorial_match_5">Match 5 to create\n Ice Cream!</string>
+    <string name="txt_tutorial_match_l">Match L shape can also\n create explosive fruit!</string>
+    <string name="txt_tutorial_match_t">Match T shape to\n create explosive fruit!</string>
+    <string name="txt_tutorial_pie">Make matches to\n clear Pie!</string>
+    <string name="txt_tutorial_pipe">Pieces will fall\n through Pipe!</string>
+    <string name="txt_tutorial_shell">Make matches to clear\n sand and collect Shell!</string>
+    <string name="txt_tutorial_starfish">Clear the pieces below\n to collect Starfish!</string>
+    <string name="txt_wheel">Daily Bonus</string>
+    <style name="Theme.JuicyMatch" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
